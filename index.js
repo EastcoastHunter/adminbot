@@ -2,6 +2,7 @@ const botconfig = require("./botconfig.json");
 const Discord = require("discord.js");
 const moment = require("moment");
 const m = require("moment-duration-format");
+const duration = require("duration");
 const ms = require("ms");
 const fs = require("fs");
 const bot = new Discord.Client({disableEveryone: true});
