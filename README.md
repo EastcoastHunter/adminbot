@@ -1,4 +1,6 @@
-# Adminbot[![Build Status](https://travis-ci.org/jch/html-pipeline.svg?branch=master)](https://discordapp.com/invite/vVcu5JW)
+# Adminbot  [![Build Status](https://travis-ci.org/jch/html-pipeline.svg?branch=master)](https://discordapp.com/invite/vVcu5JW)
+<a href=¨https://discordapp.com/invite/vVcu5JW¨ target=¨_blank¨><img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield"></a>
+
 > Admin Bot is a bot that I made for simple administrational use that has been growing, the Admin bot has went from only 3 commands to many more which I host on my own, with the hosting of this bot, it is hosted 24/7 on a computer of mine that has very minimum down time and this bot is still being built apon on my discression, if anyone is intrested in contacting me for command suggestions you can do so by creating a ticket in my discord server  which you can find by [clicking here :](<https://discord.gg/vVcu5JW>) with doing so you have to do ```/ticket create <your_reason_for_the_ticker>``` and I will get back to you.
 
 # Setting up the bot!
