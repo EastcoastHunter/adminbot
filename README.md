@@ -20,7 +20,6 @@ this will allow you to run the bot.
 ### Hope the directions I gave above where clear and easy to follow if they aren't please join my discord and notify me there you can find my discord link here: [Bot Help And Support For Hunter L.#3037's Admin Bot](<https://discord.gg/vVcu5JW>)
 
 # Lead Contributer:
-> Hunter L.#3037 
-
+> Hunter L.#3037 [![Bots for Discord](https://botsfordiscord.com/api/bot/484028883520323604/widget)](https://botsfordiscord.com/bots/484028883520323604)
 # Secondary Lead Contributer:
 > Pete#006
